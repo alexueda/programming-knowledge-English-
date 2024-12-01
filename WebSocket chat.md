@@ -2,7 +2,7 @@
 
 With the understanding of what WebSockets are, the basics of using them from Node and the browser, and the ability to debug the communication, it is time to use WebSocket to build a simple chat application.
 
-![WebSocket Peers](webServicesWebSocketPeers.jpg)
+[![WebSocket Peers](webServicesWebSocketPeers.jpg)](https://github.com/alexueda/programming-knowledge-English-/blob/main/picture/webServicesWebSocketPeers%20(1).jpg)
 
 In this example we will create an HTML page that uses WebSockets and displays the resulting chat. The server will forward the WebSocket communication from the different clients.
 
